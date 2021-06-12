@@ -7,8 +7,17 @@
 
 | GitHub Status | GitHub Profile  |
 |:-------------:|:---------------:|
-|[![Knut Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=knut-erik&show_icons=true&theme=dark&count_private=true)](https://github.com/knut-erik/github-readme-stats)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=knut-erik&theme=dark&fire=DD2727&dates=DDDDDD)](https://git.io/streak-stats)|
+|[![Knut Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=knut-erik&show_icons=true&theme=dark&count_private=true)](https://github.com/knut-erik/github-readme-stats)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knut-erik&theme=dark&fire=DD2727&dates=DDDDDD)](https://git.io/streak-stats)|
 
 | GitHub Trophy |
 |:-------------:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=knut-erik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)|
+
+---
+
+### Connect with me
+
+<p align="left">
+    <a href="https://twitter.com/knuthollund" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="background-color: #1DA1F2"/></a>
+    <a href="https://www.linkedin.com/in/knuterikhollund/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="background-color: #0A66C2" /></a>
+</p>
