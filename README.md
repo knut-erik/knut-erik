@@ -18,6 +18,6 @@
 ### Connect with me
 
 <p align="left">
-    <a href="https://twitter.com/knuthollund" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="background-color: #1DA1F2"/></a>
-    <a href="https://www.linkedin.com/in/knuterikhollund/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="background-color: #0A66C2" /></a>
+    <a href="https://twitter.com/knuthollund" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="background-color: currentColor;"/></a>
+    <a href="https://www.linkedin.com/in/knuterikhollund/" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="background-color: currentColor" /></a>
 </p>
