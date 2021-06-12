@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi World ! 👋
 
-<!--
-**knut-erik/knut-erik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on training material.
+- 🌱 I’m currently learning PWAs.
+- 📫 How to reach me: [Twitter - @knuthollund](https://twitter.com/knuthollund)
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+| GitHub Status | GitHub Profile  |
+|:-------------:|:---------------:|
+|[![Knut Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=knut-erik&show_icons=true&theme=dark&count_private=true)](https://github.com/knut-erik/github-readme-stats)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=knut-erik&theme=dark&fire=DD2727&dates=DDDDDD)](https://git.io/streak-stats)|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| GitHub Trophy |
+|:-------------:|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=knut-erik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)|
