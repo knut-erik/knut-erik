@@ -1,7 +1,6 @@
 # Hi World ! 👋
 
-- 🔭 I’m currently working on training material.
-- 🌱 I’m currently learning PWAs.
+- 🌱 I’m currently learning secure by design / secure development (#appsec).
 - 📫 How to reach me: [Twitter - @knuthollund](https://twitter.com/knuthollund)
 - 😄 Pronouns: He/Him
 
