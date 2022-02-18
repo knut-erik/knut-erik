@@ -1,6 +1,6 @@
 # Hi World ! 👋
 
-- 🌱 I’m currently learning secure by design / secure development (#appsec).
+- 🌱 I’m currently learning application security (#appsec).
 - 📫 How to reach me: [Twitter - @knuthollund](https://twitter.com/knuthollund)
 - 😄 Pronouns: He/Him
 
